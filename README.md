@@ -2,11 +2,11 @@
 ##setup
 - download android studio from here https://developer.android.com/studio/index.html
 - add SDK/tools and SDK/platform-tools to path variable.
-##testing a-droid app##
+##testing-android-app
 refer this doc for more details https://developer.android.com/studio/test/index.html
-###code inspect###
+##code-inspect
 - right click on project > analyze> inspect code
-###android monitor###
+##android-monitor
 -click on android monitor > logcat to see error messages and debug messages
 - click on monitors  tab to view cpu,gpu,memory and network usage.
 
