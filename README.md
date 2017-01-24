@@ -1,4 +1,10 @@
-# mobile-testing
+### mobile-testing
+#setup
+- download android studio from here https://developer.android.com/studio/index.html
+- add SDK/tools and SDK/platform-tools to path variable.
+# testing android app
+refer this doc for more details https://developer.android.com/studio/test/index.html
+-  
 #to pull apk from device
 1) Determine the package name of the app, e.g. "com.example.someapp". Skip this step if you already know the package name.
 
@@ -15,3 +21,5 @@ The output will look something like this: package:/data/app/com.example.someapp-
 3) Pull the APK file from the Android device to the development box.
 
 adb pull /data/app/com.example.someapp-2.apk
+
+
